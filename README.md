@@ -1,0 +1,3 @@
+TR = Bu proje, veri madenciliği (DM) kapsamında derin öğrenme temelli kümeleme tekniklerini kullanarak veri setlerini anlamlandırmayı ve seçeneklerini hedeflemektedir. Farklı işlemlere sahip veri noktalarının benzerliklerine dayalı olarak gruplandırılması, gizli yapıların keşfedilmesine ve veri kümeleri Önemli ilişkilerin ortaya çıkmasına olanak sağlar.
+
+EN = This project aims to make sense of datasets and their options by using deep learning-based clustering techniques within the scope of data mining (DM). Grouping data points with different operations based on their similarities allows the discovery of hidden structures and the emergence of important relationships between datasets.
